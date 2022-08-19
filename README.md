@@ -10,7 +10,7 @@ Ta aplikacja zrobiona z "Kurs Django Girls" https://tutorial.djangogirls.org/.
     <li><img src="https://tutorial.djangogirls.org/pl/css/images/final.png" alt="" sizes="" srcset="" height=”400px”></li>
     <li>Wgląd do poszczególnego wpisu:</li>
     <li><img src="https://tutorial.djangogirls.org/pl/extend_your_application/images/post_detail2.png" alt="" sizes="" srcset="" height=”400px”></li>
-    <li>Dodawanie posta:</li>
+    <li>Dodawanie postu:</li>
     <li><img src="https://tutorial.djangogirls.org/pl/django_forms/images/new_form2.png" alt="" sizes="" srcset="" height=”400px”></li>
 
     

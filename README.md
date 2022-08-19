@@ -7,10 +7,7 @@ Ta aplikacja zrobiona z "Kurs Django Girls" https://tutorial.djangogirls.org/.
 <p></p>
 <ul>W aplikacji bedą nastęmpujące funkcji:</ul>
     <li>Strona ze wszystkimi postami bloga z datą publikacji itd.:</li>
-    <li><img src="https://tutorial.djangogirls.org/pl/css/images/final.png" alt="" sizes="" srcset="" height=”400px”></li>
-    <li>Wgląd do poszczególnego wpisu:</li>
-    <li><img src="https://tutorial.djangogirls.org/pl/extend_your_application/images/post_detail2.png" alt="" sizes="" srcset="" height=”400px”></li>
-    <li>Dodawanie postu:</li>
-    <li><img src="https://tutorial.djangogirls.org/pl/django_forms/images/new_form2.png" alt="" sizes="" srcset="" height=”400px”></li>
-
-    
+    <li><img src="https://share.getcloudapp.com/BluW7Dm7" alt="" sizes="" srcset="" height=”800px”></li>
+    <li>Strona ze wszystkimi postami bloga z datą publikacji itd.</li>
+    <li>Wgląd do poszczególnego wpisu.</li>
+    <li>Dodawanie i korekta posta.</li>
